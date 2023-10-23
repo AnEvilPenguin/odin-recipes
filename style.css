@@ -1,0 +1,14 @@
+body {
+    background-color: #fffdd0;
+    font-family: 'Georgia', serif;
+}
+
+.title {
+    font-family: 'Brush Script MT', cursive;
+    font-weight: 900;
+    font-size: 48px;
+}
+
+ul {
+    font-weight: 900;
+}
