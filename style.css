@@ -12,3 +12,21 @@ body {
 ul {
     font-weight: 900;
 }
+
+li {
+    margin-left: 10px;
+    padding: 2px
+}
+
+.description p {
+    display: inline;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none; /* Turn off bullets */
+}
+
+.nav-list li {
+    flex: 1;
+}
