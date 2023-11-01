@@ -30,3 +30,7 @@ The project contains a simple landing page that contains a list of recipes.  Eac
 - Instructions to cook the recipe with
 
 Where appropriate the recipes will have links off to pre-requisite recipes.  For example, lasagne requires a good cheese sauce, and a good tomato sauce.
+
+## Attribution
+
+The recipes themselves have all come from BBC Good Food, which forms the basis of ~60% of my real world cooking (honorable mentions to Gordon Ramsay, Miss South (Slow Cooked), and Bosh for a good proportion of the rest of my cooking).
